@@ -1,0 +1,14 @@
+{
+  "resources": [
+    {
+      "name": "Orders",
+      "examples": [
+        {
+          "description": "Listing orders",
+          "link": "orders/listing_orders.json",
+          "groups": "all"
+        }
+      ]
+    }
+  ]
+}

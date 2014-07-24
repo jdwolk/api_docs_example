@@ -1,0 +1,43 @@
+{
+  "resource": "Orders",
+  "http_method": "GET",
+  "route": "/orders",
+  "description": "Listing orders",
+  "explanation": null,
+  "parameters": [
+
+  ],
+  "response_fields": [
+
+  ],
+  "requests": [
+    {
+      "request_method": "GET",
+      "request_path": "/orders",
+      "request_body": null,
+      "request_headers": {
+        "Host": "example.org",
+        "Cookie": ""
+      },
+      "request_query_parameters": {
+      },
+      "request_content_type": null,
+      "response_status": 200,
+      "response_status_text": "OK",
+      "response_body": "[{\"orders\":[{\"name\":\"An Order\",\"total\":30.0}]},{\"orders\":[{\"name\":\"An Order\",\"total\":30.0}]}]",
+      "response_headers": {
+        "X-Frame-Options": "SAMEORIGIN",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Content-Type-Options": "nosniff",
+        "Content-Type": "application/json; charset=utf-8",
+        "ETag": "\"52c6bddde8f6dbaebb9f6d0d677ce89f\"",
+        "Cache-Control": "max-age=0, private, must-revalidate",
+        "X-Request-Id": "6c5258f9-25aa-482d-8645-9813b9842aeb",
+        "X-Runtime": "0.011674",
+        "Content-Length": "93"
+      },
+      "response_content_type": "application/json; charset=utf-8",
+      "curl": null
+    }
+  ]
+}
