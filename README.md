@@ -1,10 +1,10 @@
 # Example App Using rspec_api__documentation
 
 Demonstrates using [rspec_api_documentation](https://github.com/zipmark/rspec_api_documentation)
+
 + [apitome](https://github.com/modeset/apitome) to generate sweet docs from
 rspec test suite.
-
-Uses [oat](https://github.com/ismasan/oat) w/ included JsonAPI adapter
+* [oat](https://github.com/ismasan/oat) w/ included JsonAPI adapter
 to serialize example models.
 
 ## Usage
