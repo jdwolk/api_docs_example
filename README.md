@@ -1,4 +1,4 @@
-# Example App Using rspec_api__documentation
+# Example app using rspec_api__documentation
 
 Demonstrates using [rspec_api_documentation](https://github.com/zipmark/rspec_api_documentation)
 
